@@ -88,7 +88,7 @@ Note, `SHELL=/bin/bash` may need to change to `SHELL=/bin/sh` if you're on a BSD
 *Done*.
 
 
-# What it Does
+# What it does
 
 Copy `darkice.cfg` to `/usr/local/etc/darkice/`.
 
